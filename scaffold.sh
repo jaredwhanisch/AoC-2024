@@ -1,4 +1,5 @@
-#!/bin/sh
+#!/bin/bash
+
 mkdir days/day$1
 touch days/day$1/sol.py
 touch days/day$1/example.txt
