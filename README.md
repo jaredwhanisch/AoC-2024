@@ -3,15 +3,11 @@
 Initialize a template for a daily solution:
 
 ```bash
-./scaffold <#>
+./scaffold <day number>
 ```
-
-Where `<#>` is the day number.
 
 Run a solution:
 
 ```bash
-./run <#>
+./run <day number>
 ```
-
-Where `<#>` is the day number.
